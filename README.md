@@ -18,21 +18,4 @@
 </a>
 
 ## 🔎 Find Me
-![LinkedIn](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
-
-
-
-<!-- Actual text -->
-
-You can find me on [![Medium][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://simpleicons.org/icons/medium.svg
-[2.2]: https://simpleicons.org/icons/linkedin.svg
-
-<!-- Links to your social media accounts -->
-
-[1]: https://medium.com/@andyfromdenver
-[2]: https://www.linkedin.com/in/reida/
+Find me on [LinkedIn](https://www.linkedin.com/in/reida/), [Medium](https://medium.com/@andyfromdenver), or the [Turing School of Software & Design](https://alumni.turing.io/alumni/andrew-reid)
