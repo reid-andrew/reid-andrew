@@ -1,7 +1,10 @@
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Ruby-informational?style=plastic&logo=Python&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Ruby&logoColor=white&color=green)
-
+![](https://img.shields.io/badge/Language-Ruby-informational?style=plastic&logo=Ruby&logoColor=white&color=green)
+![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=Python&logoColor=white&color=green)
+![](https://img.shields.io/badge/Framework-Rails-informational?style=plastic&logo=Ruby-on-Rails&logoColor=white&color=green)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=plastic&logo=Flask&logoColor=white&color=green)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=PostgreSQL&logoColor=white&color=green)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=green)
 
 
 ## &#x1f4c8; GitHub Stats
