@@ -1,6 +1,6 @@
-[![My stats](https://github-readme-stats.vercel.app/api?username=reid-andrew&count_private=true&show_icons=true&theme=cobalt)](https://github.com/reid-andrew/github-readme-stats)
+[![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reid-andrew&count_private=true&show_icons=true&theme=onedark&hide=stars)](https://github.com/reid-andrew/github-readme-stats)
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=cobalt)](https://github.com/reid-andrew/github-readme-stats)
+[![Andrew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=onedark)](https://github.com/reid-andrew/github-readme-stats)
 
 
 
