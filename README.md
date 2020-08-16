@@ -1,4 +1,4 @@
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools Used
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=A80707)
 ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails&logoColor=A80707)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -17,4 +17,22 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=onedark&hide=CoffeeScript" />
 </a>
 
-## &#x270d; Writing
+## 🔎 Find Me
+![LinkedIn](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+
+
+
+<!-- Actual text -->
+
+You can find me on [![Medium][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://simpleicons.org/icons/medium.svg
+[2.2]: https://simpleicons.org/icons/linkedin.svg
+
+<!-- Links to your social media accounts -->
+
+[1]: https://medium.com/@andyfromdenver
+[2]: https://www.linkedin.com/in/reida/
