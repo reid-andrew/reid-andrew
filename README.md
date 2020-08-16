@@ -1,3 +1,9 @@
+[![My stats](https://github-readme-stats.vercel.app/api?username=reid-andrew&count_private=true&show_icons=true&theme=cobalt)](https://github.com/reid-andrew/github-readme-stats)
+
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=cobalt)](https://github.com/reid-andrew/github-readme-stats)
+
+
+
 ### Hi there 👋
 
 <!--
