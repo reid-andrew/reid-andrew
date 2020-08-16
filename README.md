@@ -1,7 +1,13 @@
 [![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reid-andrew&count_private=true&show_icons=true&theme=onedark&hide=stars)](https://github.com/reid-andrew/github-readme-stats)
 
-[![Andrew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=onedark)](https://github.com/reid-andrew/github-readme-stats)
+[![Andrew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=onedarkhide=CoffeeScript)](https://github.com/reid-andrew/github-readme-stats)
 
+<a href="https://github.com/reid-andrew/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=reid-andrew&count_private=true&show_icons=true&theme=onedark&hide=stars" />
+</a>
+<a href="https://github.com/reid-andrew/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=onedarkhide=CoffeeScript" />
+</a>
 
 
 ### Hi there 👋
