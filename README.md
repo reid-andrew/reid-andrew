@@ -1,3 +1,9 @@
+## 👋 Hello!
+Hi there. I'm Andrew Reid and I'm a backend developer. I believe in Test Driven Development, RESTful endpoints, continuous improvement, and using technology to make the world a better place.
+
+## 🔎 Find Me
+Find me on [LinkedIn](https://www.linkedin.com/in/reida/), [Medium](https://medium.com/@andyfromdenver), or the [Turing School of Software & Design](https://alumni.turing.io/alumni/andrew-reid)
+
 ## 🔧 Technologies & Tools Used
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=A80707)
 ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails&logoColor=A80707)
@@ -17,5 +23,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-andrew&show_icons=true&theme=onedark&hide=CoffeeScript" />
 </a>
 
-## 🔎 Find Me
-Find me on [LinkedIn](https://www.linkedin.com/in/reida/), [Medium](https://medium.com/@andyfromdenver), or the [Turing School of Software & Design](https://alumni.turing.io/alumni/andrew-reid)
+
