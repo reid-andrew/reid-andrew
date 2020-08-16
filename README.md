@@ -1,6 +1,6 @@
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=#CC0000&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=plastic&logo=appveyor&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=appveyor&logoColor=white&color=green)
 
 
 
