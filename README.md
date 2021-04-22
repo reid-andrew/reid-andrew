@@ -1,5 +1,5 @@
 ## 👋 Hello!
-Hi there. I'm Andrew Reid and I'm a backend developer. I believe in Test Driven Development, RESTful endpoints, continuous improvement, and using technology to make the world a better place.
+I'm Andrew Reid and I'm a backend developer focused on using technology to make the world a better place.
 
 ## 🔎 Find Me
 Find me on [LinkedIn](https://www.linkedin.com/in/reida/), [Medium](https://medium.com/@andyfromdenver), or the [Turing School of Software & Design](https://alumni.turing.io/alumni/andrew-reid)
